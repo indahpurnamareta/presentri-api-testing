@@ -32,5 +32,5 @@ Repository ini berisi dokumen pengujian untuk **REST API Presentri (Attendance &
 ---
 
 ## 🔗 Live QA Documentation
-- **Google Sheets Test Portfolio:** [[Link Google Sheets Kamu Di Sini]](https://docs.google.com/spreadsheets/d/1aVC6Dqrq1EivC3RnAOt8mX12QLYsQT9Xm4Y_INJkDQA/edit?usp=sharing)
+- **Google Sheets Test Portfolio:** [[Manual Test]](https://docs.google.com/spreadsheets/d/1aVC6Dqrq1EivC3RnAOt8mX12QLYsQT9Xm4Y_INJkDQA/edit?usp=sharing)
 - **Tester:** Indah Purnama Reta
