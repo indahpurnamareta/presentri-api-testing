@@ -1,6 +1,6 @@
 # Presentri API Testing Portfolio (Postman)
 
-Repository ini berisi dokumen pengujian otomatis/semi-otomatis untuk **REST API Presentri (Attendance & Leave Request System)** menggunakan **Postman**.
+Repository ini berisi dokumen pengujian untuk **REST API Presentri (Attendance & Leave Request System)** menggunakan **Postman**.
 
 ---
 
