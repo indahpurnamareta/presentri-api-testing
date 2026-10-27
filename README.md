@@ -1,10 +1,10 @@
-# 🧪 Presentri API Testing Portfolio (Postman)
+# Presentri API Testing Portfolio (Postman)
 
 Repository ini berisi dokumen pengujian otomatis/semi-otomatis untuk **REST API Presentri (Attendance & Leave Request System)** menggunakan **Postman**.
 
 ---
 
-## 📌 Scope & Feature Tested
+## Scope & Feature Tested
 1. **Authentication Module (`/api/v1/login`)**
    - Positive Test: Login dengan kredensial valid (HTTP 200 OK + JWT Token)
    - Negative Test: Login dengan password salah (HTTP 401 Unauthorized)
@@ -19,7 +19,7 @@ Repository ini berisi dokumen pengujian otomatis/semi-otomatis untuk **REST API 
 
 ---
 
-## 🚀 How to Run Test Collection in Postman
+## How to Run Test Collection in Postman
 
 1. Download atau clone repository ini.
 2. Buka aplikasi **Postman**.
